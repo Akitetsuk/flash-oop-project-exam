@@ -19,7 +19,7 @@ body {
 }
 
 .question-card {
-  display: none;
+  /* display: none; */
   position: relative;
   background: transparent;
   border-color: var(--mainOrange);
